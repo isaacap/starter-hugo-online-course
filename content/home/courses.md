@@ -1,9 +1,10 @@
 ---
 widget: portfolio
-headless: true
+widget_id: a
 weight: 30
 title: Explore top courses
-subtitle:
+subtitle: null
+active: false
 content:
   filters:
     folders:
@@ -12,18 +13,17 @@ content:
       - section
     exclude_tags:
       - preface
-
   filter_default: 0
-
   filter_button:
     - name: All Courses
-      tag: '*'
+      tag: "*"
     - name: Previous
       tag: previous
     - name: Current
       tag: current
+headless: true
 design:
-  columns: '1'
+  columns: "2"
   view: masonry
   flip_alt_rows: false
 ---

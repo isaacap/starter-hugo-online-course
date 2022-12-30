@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: aA
 weight: 30
-title: Explore top courses
+title: Explore top coursess
 subtitle: null
 active: false
 content:

@@ -1,10 +1,10 @@
 ---
 widget: portfolio
-widget_id: A
+widget_id: aA
 weight: 30
 title: Explore top courses
 subtitle: null
-active: true
+active: false
 content:
   filters:
     folders:

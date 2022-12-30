@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: a
+widget_id: A
 weight: 30
 title: Explore top courses
 subtitle: null
@@ -23,7 +23,7 @@ content:
       tag: current
 headless: true
 design:
-  columns: "2"
+  columns: "1"
   view: masonry
   flip_alt_rows: false
 ---

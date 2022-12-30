@@ -4,7 +4,7 @@ widget_id: A
 weight: 30
 title: Explore top courses
 subtitle: null
-active: false
+active: true
 content:
   filters:
     folders:
